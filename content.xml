@@ -1,0 +1,1799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260401183049IVG6ZX</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260401183049PX3SLP</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>“Diseño e instalación de un sistema de climatización eficiente para un espacio real”</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>¿Cómo funciona tu nevera por dentro? Carga de refrigerante </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Gema María Naranjo Rodríguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta3</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1775032404268</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mnfqi5oz-i5stwsqdd</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Descripción del proyecto</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Descripción del proyecto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfqi5oz-i5stwsqdd</odePageId>
+      <odeBlockId>block-1774989515091-oazdcgxps</odeBlockId>
+      <blockName>Aquí encontrarás toda la información sobre el proyecto</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5oz-i5stwsqdd</odePageId>
+          <odeBlockId>block-1774989515091-oazdcgxps</odeBlockId>
+          <odeIdeviceId>idevice-1774989515089-adqkbnm0y</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>“Diseño e instalación de un sistema de climatización eficiente para un espacio real”<br /> </p>
+<p>Centro de interés o temática<br />El proyecto se centra en la eficiencia energética y el diseño de sistemas de climatización, abordando la instalación real de un sistema de aire acondicionado en un espacio determinado (vivienda simulada).</p>
+<p>Nivel al que va dirigido<br />Alumnado de 1º de Grado Medio del ciclo formativo de Instalaciones Frigoríficas y de Climatización.</p>
+<p>Temporalización aproximada<br />Duración de 5 semanas (15 sesiones aproximadamente):</p>
+<p>Semana 1: Análisis del espacio y necesidades térmicas</p>
+<p>Semana 2: Cálculo de cargas térmicas</p>
+<p>Semana 3: Diseño del sistema</p>
+<p>Semana 4: Simulación/maqueta de instalación</p>
+<p>Semana 5: Evaluación, memoria técnica y exposición</p>
+<p> Materia o materias implicadas</p>
+<p>Técnicas de montaje de instalaciones</p>
+<p>Instalaciones eléctricas básicas</p>
+<p>Interpretación de planos</p>
+<p>Eficiencia energética y sostenibilidad (transversal)<br /> </p>
+<p><br /> Idioma</p>
+<p>Español (con uso de terminología técnica en inglés, como BTU, COP, EER, HVAC, etc.).</p>
+<p> Descripción general del aprendizaje<br />El alumnado trabajará en equipos para diseñar un sistema de climatización completo, partiendo de un caso práctico realista.</p>
+<p>Deberán:</p>
+<p>Analizar un espacio, en este caso se trata de una vivienda (dimensiones, orientación, uso)</p>
+<p>Calcular la carga térmica necesaria</p>
+<p>Seleccionar el equipo adecuado</p>
+<p>Diseñar la instalación (planos, esquema eléctrico básico)</p>
+<p>Simular o montar una parte de la instalación</p>
+<p>Elaborar una memoria técnica del proyecto</p>
+<p>Defender su propuesta ante el grupo</p>
+<p>Se desarrollan competencias como:</p>
+<p>Resolución de problemas técnicos</p>
+<p>Interpretación de planos</p>
+<p>Aplicación de cálculos reales</p>
+<p>Trabajo en equipo profesional</p>
+<p>Conciencia sobre eficiencia energética</p>
+<p> Justificación pedagógica<br />Se fundamenta en la rutina de pensamiento “Veo – Pienso – Me pregunto”, adaptada al ámbito técnico.<br /> </p>
+<p> Veo<br />El alumnado observa situaciones reales:</p>
+<p>Espacios mal climatizados</p>
+<p>Consumo energético elevado</p>
+<p>Instalaciones ineficientes</p>
+<p>Esto permite conectar el aprendizaje con el entorno profesional real.</p>
+<p> </p>
+<p>Pienso<br />Reflexionan sobre:</p>
+<p>Qué factores influyen en la climatización</p>
+<p>Cómo mejorar la eficiencia energética</p>
+<p>Qué errores se cometen en instalaciones reales</p>
+<p>Aquí se fomenta el razonamiento técnico y la toma de decisiones.</p>
+<p> </p>
+<p> Me pregunto<br />Se plantean cuestiones como:</p>
+<p>¿Qué potencia necesita este espacio?</p>
+<p>¿Qué sistema es más eficiente?</p>
+<p>¿Cómo reducir el consumo energético?</p>
+<p>Esto impulsa la investigación, el cálculo y la aplicación práctica.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774989515089-adqkbnm0y","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>“Diseño e instalación de un sistema de climatización eficiente para un espacio real”<br /> </p>\n<p>Centro de interés o temática<br />El proyecto se centra en la eficiencia energética y el diseño de sistemas de climatización, abordando la instalación real de un sistema de aire acondicionado en un espacio determinado (vivienda simulada).</p>\n<p>Nivel al que va dirigido<br />Alumnado de 1º de Grado Medio del ciclo formativo de Instalaciones Frigoríficas y de Climatización.</p>\n<p>Temporalización aproximada<br />Duración de 5 semanas (15 sesiones aproximadamente):</p>\n<p>Semana 1: Análisis del espacio y necesidades térmicas</p>\n<p>Semana 2: Cálculo de cargas térmicas</p>\n<p>Semana 3: Diseño del sistema</p>\n<p>Semana 4: Simulación/maqueta de instalación</p>\n<p>Semana 5: Evaluación, memoria técnica y exposición</p>\n<p> Materia o materias implicadas</p>\n<p>Técnicas de montaje de instalaciones</p>\n<p>Instalaciones eléctricas básicas</p>\n<p>Interpretación de planos</p>\n<p>Eficiencia energética y sostenibilidad (transversal)<br /> </p>\n<p><br /> Idioma</p>\n<p>Español (con uso de terminología técnica en inglés, como BTU, COP, EER, HVAC, etc.).</p>\n<p> Descripción general del aprendizaje<br />El alumnado trabajará en equipos para diseñar un sistema de climatización completo, partiendo de un caso práctico realista.</p>\n<p>Deberán:</p>\n<p>Analizar un espacio, en este caso se trata de una vivienda (dimensiones, orientación, uso)</p>\n<p>Calcular la carga térmica necesaria</p>\n<p>Seleccionar el equipo adecuado</p>\n<p>Diseñar la instalación (planos, esquema eléctrico básico)</p>\n<p>Simular o montar una parte de la instalación</p>\n<p>Elaborar una memoria técnica del proyecto</p>\n<p>Defender su propuesta ante el grupo</p>\n<p>Se desarrollan competencias como:</p>\n<p>Resolución de problemas técnicos</p>\n<p>Interpretación de planos</p>\n<p>Aplicación de cálculos reales</p>\n<p>Trabajo en equipo profesional</p>\n<p>Conciencia sobre eficiencia energética</p>\n<p> Justificación pedagógica<br />Se fundamenta en la rutina de pensamiento “Veo – Pienso – Me pregunto”, adaptada al ámbito técnico.<br /> </p>\n<p> Veo<br />El alumnado observa situaciones reales:</p>\n<p>Espacios mal climatizados</p>\n<p>Consumo energético elevado</p>\n<p>Instalaciones ineficientes</p>\n<p>Esto permite conectar el aprendizaje con el entorno profesional real.</p>\n<p> </p>\n<p>Pienso<br />Reflexionan sobre:</p>\n<p>Qué factores influyen en la climatización</p>\n<p>Cómo mejorar la eficiencia energética</p>\n<p>Qué errores se cometen en instalaciones reales</p>\n<p>Aquí se fomenta el razonamiento técnico y la toma de decisiones.</p>\n<p> </p>\n<p> Me pregunto<br />Se plantean cuestiones como:</p>\n<p>¿Qué potencia necesita este espacio?</p>\n<p>¿Qué sistema es más eficiente?</p>\n<p>¿Cómo reducir el consumo energético?</p>\n<p>Esto impulsa la investigación, el cálculo y la aplicación práctica.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfqi5p0-lpsyf1mui</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Recursos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Recursos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfqi5p0-lpsyf1mui</odePageId>
+      <odeBlockId>block-1774990383126-81q2trr8m</odeBlockId>
+      <blockName>Aquí tienes los recursos digitales apropiados para convertirte en un gran frigorista</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5p0-lpsyf1mui</odePageId>
+          <odeBlockId>block-1774990383126-81q2trr8m</odeBlockId>
+          <odeIdeviceId>idevice-1774990383124-5svw5jxdu</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En el siguiente enlace tienes todas las herramientas, tutoriales, vídeos y recursos que necesitas  para hacer todas y cada una de las actividades. </p>
+<p><a href="https://padlet.com/gemasiempreleyendo/recursos-para-el-dise-o-de-instalaciones-de-climatizaci-n-zh3aeaqkhdcly4ut" title="Temario Frío y Climatización ">https://padlet.com/gemasiempreleyendo/recursos-para-el-dise-o-de-instalaciones-de-climatizaci-n-zh3aeaqkhdcly4ut</a><a href="https://padlet.com/gemasiempreleyendo/recursos-para-el-dise-o-de-instalaciones-de-climatizaci-n-zh3aeaqkhdcly4ut" title="Temario Frío y Climatización ">https://padlet.com/gemasiempreleyendo/recursos-para-el-dise-o-de-instalaciones-de-climatizaci-n-zh3aeaqkhdcly4ut</a></p>
+<p></p>
+<p>Para que tengas todos los recursos de forma accesible, tienes el siguiente enlace en el que puedes acceder a cada uno de los programas, leyes y material necesario para investigar y trabajar de forma autónoma. </p>
+<p></p>
+<p><a href="https://www.symbaloo.com/mix/recursos-docentes-fp">https://www.symbaloo.com/mix/recursos-docentes-fp</a></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774990383124-5svw5jxdu","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En el siguiente enlace tienes todas las herramientas, tutoriales, vídeos y recursos que necesitas  para hacer todas y cada una de las actividades. </p>\n<p><a href=\"https://padlet.com/gemasiempreleyendo/recursos-para-el-dise-o-de-instalaciones-de-climatizaci-n-zh3aeaqkhdcly4ut\" title=\"Temario Frío y Climatización \">https://padlet.com/gemasiempreleyendo/recursos-para-el-dise-o-de-instalaciones-de-climatizaci-n-zh3aeaqkhdcly4ut</a><a href=\"https://padlet.com/gemasiempreleyendo/recursos-para-el-dise-o-de-instalaciones-de-climatizaci-n-zh3aeaqkhdcly4ut\" title=\"Temario Frío y Climatización \">https://padlet.com/gemasiempreleyendo/recursos-para-el-dise-o-de-instalaciones-de-climatizaci-n-zh3aeaqkhdcly4ut</a></p>\n<p></p>\n<p>Para que tengas todos los recursos de forma accesible, tienes el siguiente enlace en el que puedes acceder a cada uno de los programas, leyes y material necesario para investigar y trabajar de forma autónoma. </p>\n<p></p>\n<p><a href=\"https://www.symbaloo.com/mix/recursos-docentes-fp\">https://www.symbaloo.com/mix/recursos-docentes-fp</a></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfqi5p0-on7m5k53l</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PROTECCIÓN DE DATOS PERSONALES (MUY IMPORTANTE)</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS PERSONALES (MUY IMPORTANTE)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PROTECCIÓN DE DATOS PERSONALES (MUY IMPORTANTE)</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PROTECCIÓN DE DATOS PERSONALES (MUY IMPORTANTE)</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfqi5p0-on7m5k53l</odePageId>
+      <odeBlockId>block-mnf2epqw-y0va1a211</odeBlockId>
+      <blockName>DERECHOS DIGITALES</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5p0-on7m5k53l</odePageId>
+          <odeBlockId>block-mnf2epqw-y0va1a211</odeBlockId>
+          <odeIdeviceId>idevice-mnf2epqw-ln7kc8s69</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/Infografía Hitos Históricos en la Arquitectura Fotográfico Profesional Negro.png" title="Infografía derechos digitales" width="800" height="2000" alt="Infografía derechos digitales" /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mnf2epqw-ln7kc8s69","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/Infografía Hitos Históricos en la Arquitectura Fotográfico Profesional Negro.png\" title=\"Infografía derechos digitales\" width=\"800\" height=\"2000\" alt=\"Infografía derechos digitales\" /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfqi5p0-km9aa3yec</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Actividades</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Actividades</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfqi5p0-km9aa3yec</odePageId>
+      <odeBlockId>block-mnf2epqx-eo50g4ile</odeBlockId>
+      <blockName></blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5p0-km9aa3yec</odePageId>
+          <odeBlockId>block-mnf2epqx-eo50g4ile</odeBlockId>
+          <odeIdeviceId>idevice-mnf2epqx-4p9tc2ic1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><strong><span style="font-family: arial, helvetica, sans-serif; color: #339966;">¡Demuestra que eres ya un experto de refrigeración con estas actividades que proponemos a continuación!</span></strong></p>
+<p><span style="font-family: arial, helvetica, sans-serif;"> ⇒ Pasa a la siguiente página y no te olvides de compartir los resultados con tus compañeros.</span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><strong><span style=\"font-family: arial, helvetica, sans-serif; color: #339966;\">¡Demuestra que eres ya un experto de refrigeración con estas actividades que proponemos a continuación!</span></strong></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"> ⇒ Pasa a la siguiente página y no te olvides de compartir los resultados con tus compañeros.</span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfqi5p1-x06ieixaz</odePageId>
+  <odeParentPageId>page-mnfqi5p0-km9aa3yec</odeParentPageId>
+  <pageName>Análisis completo de una vivienda</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Análisis completo de una vivienda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Análisis completo de una vivienda</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfqi5p1-x06ieixaz</odePageId>
+      <odeBlockId>block-1774990929127-fh1r79khy</odeBlockId>
+      <blockName>Realiza cada una de las actividades siguientes siguiendo la línea temporal</blockName>
+      <iconName>think</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5p1-x06ieixaz</odePageId>
+          <odeBlockId>block-1774990929127-fh1r79khy</odeBlockId>
+          <odeIdeviceId>idevice-1774990929126-w8ujb5qs0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Entra en el siguiente enlace y disfruta de las actividades en las que vas a analizar paso a paso cómo se toman las decisiones correspondientes en la obra de una vivienda. </p>
+<p></p>
+<p><a href="https://padlet.com/gemasiempreleyendo/l-nea-temporal-an-lisis-vivienda-u9fznbm42qa8oefo" title="Línea temporal actividades ">https://padlet.com/gemasiempreleyendo/l-nea-temporal-an-lisis-vivienda-u9fznbm42qa8oefo</a></p>
+<p></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774990929126-w8ujb5qs0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Entra en el siguiente enlace y disfruta de las actividades en las que vas a analizar paso a paso cómo se toman las decisiones correspondientes en la obra de una vivienda. </p>\n<p></p>\n<p><a href=\"https://padlet.com/gemasiempreleyendo/l-nea-temporal-an-lisis-vivienda-u9fznbm42qa8oefo\" title=\"Línea temporal actividades \">https://padlet.com/gemasiempreleyendo/l-nea-temporal-an-lisis-vivienda-u9fznbm42qa8oefo</a></p>\n<p></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfqi5p1-40v53idll</odePageId>
+  <odeParentPageId>page-mnfqi5p0-km9aa3yec</odeParentPageId>
+  <pageName>¿Qué sabes sobre los componentes de un frigorífico?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué sabes sobre los componentes de un frigorífico?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Qué sabes sobre los componentes de un frigorífico?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfqi5p1-40v53idll</odePageId>
+      <odeBlockId>block-mnf2epqx-ro8a238bs</odeBlockId>
+      <blockName>Pregunta verdadero-falso</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5p1-40v53idll</odePageId>
+          <odeBlockId>block-mnf2epqx-ro8a238bs</odeBlockId>
+          <odeIdeviceId>idevice-mnf2epqx-kydnooiij</odeIdeviceId>
+          <odeIdeviceTypeName>trueorfalse</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p>Indica si las siguientes afirmaciones sobre los componentes de una instalación frigorífica básica son verdaderas o falsas</p>]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-30","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>Indica si las siguientes afirmaciones sobre los componentes de una instalación frigorífica básica son verdaderas o falsas</p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Click here to start","msgTime":"Time per question","msgNoImage":"No picture question","msgScoreScorm":"The score can't be saved because this page is not part of a SCORM package.","msgEndGameScore":"Please start the game before saving your score.","msgOnlySaveScore":"You can only save the score once!","msgOnlySave":"You can only save once","msgYouScore":"Your score","msgAuthor":"Authorship","msgOnlySaveAuto":"Your score will be saved after each question. You can only play once.","msgSaveAuto":"Your score will be automatically saved after each question.","msgSeveralScore":"You can save the score as many times as you want","msgYouLastScore":"The last score saved is","msgActityComply":"You have already done this activity.","msgPlaySeveralTimes":"You can do this activity as many times as you want","msgUncompletedActivity":"Incomplete activity","msgSuccessfulActivity":"Activity: Passed. Score: %s","msgUnsuccessfulActivity":"Activity: Not passed. Score: %s","msgTypeGame":"True or false","msgFeedback":"Feedback","msgSuggestion":"Suggestion","msgSolution":"Solution","msgQuestion":"Question","msgTrue":"True","msgFalse":"False","msgOk":"Correct","msgKO":"Incorrect","msgShow":"Show","msgHide":"Hide","msgCheck":"Check","msgReboot":"Try again!","msgScore":"Score","msgWeight":"Weight","msgNext":"Next","msgPrevious":"Previous"},"questionsRandom":false,"percentageQuestions":100,"isTest":false,"time":0,"questionsGame":[{"question":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">El condensador es el intercambiador que se encarga de disipar el calor al ambiente licuando el refrigerante que circula por su interior.</span></p>","feedback":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">Es la vía por la que evacuamos en el exterior el calor extraído en el interior.</span></p>","suggestion":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">El condensador alcanza temperaturas entre 40 y 50 ºC.</span></p>","solution":1},{"question":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">El compresor es el elemento donde se expande el refrigerante y pierde presión de una manera brusca.</span></p>","feedback":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">Este elemento es la válvula o capilar de expansión que hace que el refrigerante circule por un estrechamiento considerable bajando la presión del sistema.</span></p>","suggestion":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">Este elemento es el que se encarga de comprimir el refrigerante.</span></p>","solution":0},{"question":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">El evaporador se encuentra en el exterior del frigorífico, en la parte trasera.</span></p>","feedback":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">El evaporador se encuentra en el interior del compartimento donde se refrigeran los alimentos. Es donde el refrigerante alcanza temperaturas muy bajas.</span></p>","suggestion":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">El evaporador al tocarlo se encuentra a una temperatura muy baja.</span></p>","solution":0},{"question":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">El compresor se encarga de elevar la presión y por tanto la temperatura del refrigerante para enviarlo hacia el condensador donde se va a licuar posteriormente.</span></p>","feedback":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">El condensador es el corazón del sistema y bombea el refrigerante a alta presión para cerrar el ciclo de refrigeración.</span></p>","suggestion":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">El compresor es el motor de nuestra máquina frigorífica.</span></p>","solution":1},{"question":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">La válvula de expansión se encuentra después del evaporador.</span></p>","feedback":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">La válvula de expansión se encuentra entre el condensador y el evaporador para reducir la presión y posteriormente que el refrigerante pueda evaporarse fácilmente.</span></p>","suggestion":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">Este elemento facilita la evaporación del refrigerante.</span></p>","solution":0}],"isScorm":0,"textButtonScorm":"Save score","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"","showSlider":false,"ideviceId":"idevice-30"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfqi5p1-dan5v269p</odePageId>
+  <odeParentPageId>page-mnfqi5p0-km9aa3yec</odeParentPageId>
+  <pageName>¡Cuidado con el refrigerante!</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Cuidado con el refrigerante!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¡Cuidado con el refrigerante!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfqi5p1-dan5v269p</odePageId>
+      <odeBlockId>block-mnf2epqx-ji4z6ltpe</odeBlockId>
+      <blockName></blockName>
+      <iconName>sport</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5p1-dan5v269p</odePageId>
+          <odeBlockId>block-mnf2epqx-ji4z6ltpe</odeBlockId>
+          <odeIdeviceId>idevice-mnf2epqx-f01w41umh</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-family: arial, helvetica, sans-serif;">Demuestra tus conocimientos sobre la carga de refrigerante. <strong><span style="color: #339966;">Presta especial atención a las medidas de seguridad y piensa en el medio ambiente!</span></strong></span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">Demuestra tus conocimientos sobre la carga de refrigerante. <strong><span style=\"color: #339966;\">Presta especial atención a las medidas de seguridad y piensa en el medio ambiente!</span></strong></span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnfqi5p1-dan5v269p</odePageId>
+      <odeBlockId>block-mnf2epqx-iibrq6z8v</odeBlockId>
+      <blockName>A-Z Quiz Game</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5p1-dan5v269p</odePageId>
+          <odeBlockId>block-mnf2epqx-iibrq6z8v</odeBlockId>
+          <odeIdeviceId>idevice-mnf2epqx-vj8vvmanm</odeIdeviceId>
+          <odeIdeviceTypeName>az-quiz-game</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rosco-IDevice"><div class="rosco-version js-hidden">2</div><div class="rosco-instructions gameQP-instructions"><p><span style="font-family: arial, helvetica, sans-serif;">Observa cada una de las letras, identifica con imágenes o completa las frases con la palabra adecuada.</span></p></div><div class="rosco-DataGame js-hidden">%E9%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C0%FD%E1%F1%FD%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%AE%E2%AC%AE%E1%E2%F3%FC%B2%E1%E6%EB%FE%F7%AF%CE%B0%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%A8%B2%F3%E0%FB%F3%FE%BE%B2%FA%F7%FE%E4%F7%E6%FB%F1%F3%BE%B2%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%A9%CE%B0%AC%DD%F0%E1%F7%E0%E4%F3%B2%F1%F3%F6%F3%B2%E7%FC%F3%B2%F6%F7%B2%FE%F3%E1%B2%FE%F7%E6%E0%F3%E1%BE%B2%FB%F6%F7%FC%E6%FB%F4%FB%F1%F3%B2%F1%FD%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B2%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%B2%FE%F3%E1%B2%F4%E0%F3%E1%F7%E1%B2%F1%FD%FC%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%F3%F6%F7%F1%E7%F3%F6%F3%BC%AE%BD%E1%E2%F3%FC%AC%AE%BD%E2%AC%B0%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A7%BE%B0%F6%E7%E0%F3%E6%FB%FD%FC%D5%F3%FF%F7%B0%A8%A1%A2%A2%BE%B0%FC%E7%FF%F0%F7%E0%C6%E7%E0%FC%E1%B0%A8%A0%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E5%FD%E0%F6%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D3%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D3%E8%E7%FE%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0-%D6%F7%B2%E3%E7%7B%B2%F1%FD%FE%FD%E0%B2%F7%E1%B2%F7%FE%B2%FE%F3%E6%FB%F5%E7%FB%FE%FE%FD%B2%F6%F7%FE%B2%E2%E7%F7%FC%E6%F7%B2%F6%F7%B2%FF%F3%FCa%FF%F7%E6%E0%FD%E1%B2%F7%FC%B2%F7%FE%B2%E3%E7%F7%B2%E2%FD%F6%F7%FF%FD%E1%B2%FF%F7%F6%FB%E0%B2%F0%F3%F8%F3%B2%E2%E0%F7%E1%FBa%FC%AD%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%E0%F7%E1%FD%E7%E0%F1%F7%E1%BD%FF%F3%FC%FD%FF%F7%E6%E0%FD%BF%A0%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BC%AB%AB%A1%A4%A7%A2%A5%AB%A1%A4%A7%A2%A5%AB%A1%A5%BE%B0%EB%B0%A8%A2%BC%AA%A5%AA%A3%A5%A6%A4%A2%A1%A3%A5%A6%A4%A2%A1%A0%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D0%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D0s%E1%F1%E7%FE%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%E6%F7%B2%FD%F0%F8%F7%E6%FD%B2%FC%FD%E1%B2%F3%EB%E7%F6%F3%B2%F3%B2%E1%F3%F0%F7%E0%B2%F1%E7s%FC%E6%FD%B2%E0%F7%F4%E0%FB%F5%F7%E0%F3%FC%E6%F7%B2%F7%E1%E6%F3%FF%FD%E1%B2%F1%F3%E0%F5%F3%FC%F6%FD%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%E0%F7%E1%FD%E7%E0%F1%F7%E1%BD%F0%F3%E1%F1%E7%FE%F3%BF%F1%F3%E0%F5%F3%BF%F5%F3%E1%BF%E0%F7%F4%E0%FB%F5%F7%E0%F3%FC%E6%F7%BF%F3%FB%E0%F7%BF%F3%F1%FD%FC%F6%FB%F1%FB%FD%FC%F3%F6%FD%BF%A3%A2%A2%BF%F9%F5%BF%F1%F3%E6%F7%F5%FD%E0%EB%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BC%A1%AB%A1%A4%A7%A2%A5%AB%A1%A4%A7%A2%A5%AB%A1%A4%A6%BE%B0%EB%B0%A8%A2%BC%A4%A0%A5%A1%AA%A2%AB%A7%A0%A1%AA%A2%AB%A7%A0%A6%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D1%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D6%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D7%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D4%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D5%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%D5%E7%F3%FC%E6%F7%E1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D7%E1%B2%FE%FD%B2%E2%E0%FB%FF%F7%E0%FD%B2%E3%E7%F7%B2%E6%FB%F7%FC%F7%E1%B2%E3%E7%F7%B2%E2%FD%FC%F7%E0%E6%F7%B2%F3%FC%E6%F7%E1%B2%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F1%E7%F3%FE%E3%E7%FB%F7%E0%B2%FD%E2%F7%E0%F3%F1%FBa%FC%B2%F1%FD%FC%B2%E0%F7%F4%E0%FB%F5%F7%E0%F3%FC%E6%F7%E1%B3%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DA%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DB%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D8%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%D9%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DE%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DF%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%DF%F7%F6%FB%FD%B2%F3%FF%F0%FB%F7%FC%E6%F7%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D6%F7%F0%F7%FF%FD%E1%B2%F1%E7%FB%F6%F3%E0%B2%FC%FD%B2%E4%F7%E0%E6%F7%E0%B2%FE%FD%E1%B2%E0%F7%F4%E0%FB%F5%F7%E0%F3%FC%E6%F7%E1%B2%F3%B2%FE%F3%B2%F3%E6%FFa%E1%F4%F7%E0%F3%B2%E2%F3%E0%F3%B2%E2%E0%FD%E6%F7%F5%F7%E0%B2%F7%FE%BC%BC%BC%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%E0%F7%E1%FD%E7%E0%F1%F7%E1%BD%FD%FC%FB%E8%F7%F6%BF%E1%EB%E1%E6%F7%FF%BF%FD%F4%BF%F1%FE%F3%E1%E1%FB%F4%FB%F1%F3%E6%FB%FD%FC%BF%F3%FC%F6%BF%FE%F3%F0%F7%FE%FE%FB%FC%F5%BF%FD%F4%BF%F1%FA%F7%FF%FB%F1%F3%FE%E1%BF%F1%FE%E2%BF%E0%F7%F5%E7%FE%F3%E6%FB%FD%FC%BF%FA%F3%E8%F3%E0%F6%BF%F5%FA%E1%BF%F3%FC%F5%FE%F7%BF%FE%F3%F0%F7%FE%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DC%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0C%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%DD%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C2%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C2%E7%F7%FC%E6%F7%B2%F6%F7%B2%FF%F3%FCa%FF%F7%E6%E0%FD%E1%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%D1%FD%FC%B2%F7%E1%E6%F7%B2%FD%F0%F8%F7%E6%FD%B2%E2%FD%F6%F7%FF%FD%E1%B2%FF%F7%F6%FB%E0%B2%FE%F3%E1%B2%E2%E0%F7%E1%FB%FD%FC%F7%E1%B2%EB%B2%F3%F0%E0%FB%E0%B2%FD%B2%F1%F7%E0%E0%F3%E0%B2%FE%F3%B2%E4%7F%F3%B2%FA%F3%F1%FB%F3%B2%FE%F3%B2%FFs%E3%E7%FB%FC%F3%B2%F4%E0%FB%F5%FD%E0%7F%F4%FB%F1%F3%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%E0%F7%E1%FD%E7%E0%F1%F7%E1%BD%FF%F3%FC%FD%FF%F7%E6%E0%FD%BF%A0%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BC%AB%A7%AA%A5%A1%A2%A3%A7%AA%A5%A1%A2%A3%A7%AA%AA%BE%B0%EB%B0%A8%A2%BC%A0%AA%A2%A6%A7%A4%A1%A6%AB%A0%A2%A4%A1%A6%AB%A0%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C3%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C3%E7%F7%FF%F3%F6%E7%E0%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0-%C3%E7%7B%B2%FC%FD%E1%B2%E2%E7%F7%F6%F7%B2%E2%F3%E1%F3%E0%B2%E1%FB%B2%FC%FD%B2%E7%E1%F3%FF%FD%E1%B2%E2%E0%FD%E6%F7%F1%F1%FBa%FC%B2%F7%FC%B2%FE%F3%E1%B2%FF%F3%FC%FD%E1%B2%EB%B2%F7%FC%E6%E0%F3%FF%FD%E1%B2%F7%FC%B2%F1%FD%FC%E6%F3%F1%E6%FD%B2%F1%FD%FC%B2%F7%FE%B2%E0%F7%F4%E0%FB%F5%F7%E0%F3%FC%E6%F7%B2%F3%B2%E7%FC%F3%B2%E6%F7%FF%E2%F7%E0%F3%E6%E7%E0%F3%B2%FF%E7%EB%B2%F0%F3%F8%F3%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%E0%F7%E1%FD%E7%E0%F1%F7%E1%BD%D6%DF%D7%C7%CD%CB%A3%A6%A1%A4%A2%AB%AA%CD%A3%A3%CD%E1%E6%F6%BC%FE%F3%FC%F5%BC%F3%FE%FE%BC%F5%FB%F4%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C0%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C0%BF%A3%A1%A6%F3%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0-%D1%E7s%FE%B2%F7%E1%B2%F7%FE%B2%E0%F7%F4%E0%FB%F5%F7%E0%F3%FC%E6%F7%B2%E3%E7%F7%B2%E7%E1%F3%FF%FD%E1%B2%FA%F3%F0%FB%E6%E7%F3%FE%FF%F7%FC%E6%F7%B2%F7%FC%B2%FE%F3%B2%F1%F3%E0%F5%F3%B2%F6%F7%B2%F4%E0%FB%F5%FD%E0%7F%F4%FB%F1%FD%E1%AD%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%E0%F7%E1%FD%E7%E0%F1%F7%E1%BD%D0%DB%D6%DD%DC%D7%C1%BF%E6%F7%EA%E6%FD%BF%F4%FD%FC%F6%FD%BF%F0%FE%F3%FC%F1%FD%BC%E2%FC%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C1%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C1%F7%E0%E4%FB%F1%FB%FD%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0-%C3%E7%7B%B2%FE%F3%E6%FB%F5%E7%FB%FE%FE%FD%B2%F7%E1%B2%F7%FE%B2%E3%E7%F7%B2%FB%FC%E6%E0%FD%F6%E7%F1%F7%B2%F7%FE%B2%E0%F7%F4%E0%FB%F5%F7%E0%F3%FC%E6%F7%B2%F3%B2%FC%E7%F7%E1%E6%E0%F3%B2%FFs%E3%E7%FB%FC%F3%B2%F4%E0%FB%F5%FD%E0%7F%F4%FB%F1%F3%AD%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%E0%F7%E1%FD%E7%E0%F1%F7%E1%BD%FF%F3%FC%FD%FF%F7%E6%E0%FD%BF%A0%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BC%AB%A6%A0%AA%A7%A5%A3%A6%A0%AA%A7%A5%A3%A6%A0%AA%BE%B0%EB%B0%A8%A2%BC%AB%A0%A2%AA%A1%A1%A1%A1%A1%A1%A1%A1%A1%A1%A1%A1%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C6%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C7%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C4%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%C4%F3%E2%FD%E0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0-%D7%FC%B2%E3%E7%7B%B2%F4%F3%E1%F7%B2%F7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F1%F3%E0%F5%F3%E0%B2%F7%FE%B2%E0%F7%F4%E0%FB%F5%F7%E0%F3%FC%E6%F7%B2%F7%FC%B2%E7%FC%B2%F1%FD%FF%E2%E0%F7%E1%FD%E0%B2%FA%F7%E0%FF%7B%E6%FB%F1%FD%AD%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C5%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%CA%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%CB%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%BE%E9%B0%FE%F7%E6%E6%F7%E0%B0%A8%B0%C8%B0%BE%B0%E5%FD%E0%F6%B0%A8%B0%B0%BE%B0%F6%F7%F4%FB%FC%FB%E6%FB%FD%FC%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%B0%A8%A2%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E7%E0%FE%B0%A8%B0%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%EA%B0%A8%A2%BE%B0%EB%B0%A8%A2%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%F4%F3%FE%E1%F7%BE%B0%FE%F7%E6%E6%F7%E0%E1%B0%A8%B0%D3%D0%D1%D6%D7%D4%D5%DA%DB%D8%D9%DE%DF%DCC%DD%C2%C3%C0%C1%C6%C7%C4%C5%CA%CB%C8%B0%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%B7%A1%D1%E1%E2%F3%FC%B7%A0%A2%E1%E6%EB%FE%F7%B7%A1%D6%B7%A0%A0%F4%FD%FC%E6%BF%F4%F3%FF%FB%FE%EB%B7%A1%D3%B7%A0%A2%F3%E0%FB%F3%FE%B7%A0%D1%B7%A0%A2%FA%F7%FE%E4%F7%E6%FB%F1%F3%B7%A0%D1%B7%A0%A2%E1%F3%FC%E1%BF%E1%F7%E0%FB%F4%B7%A1%D0%B7%A0%A0%B7%A1%D7%C0%F7%F3%FE%FB%E8%F3%B7%A0%A2%E6%FD%F6%FD%E1%B7%A0%A2%FE%FD%E1%B7%A0%A2%FB%FC%E6%F7%FC%E6%FD%E1%B7%A0%A2%E3%E7%F7%B7%A0%A2%FC%F7%F1%F7%E1%FB%E6%F7%E1%B7%A0%A3%B7%A0%A2%F3%F4%FB%F3%FC%E8%F3%B7%A0%A2%E6%E7%B7%A0%A2%F1%FD%FC%FD%F1%FB%FF%FB%F7%FC%E6%FD%B7%A0%A2%F7%FC%B7%A0%A2%F7%FE%B7%A0%A2%E2%E0%FD%F1%F7%E1%FD%B7%A0%A2%F6%F7%B7%A0%A2%F1%F3%E0%F5%F3%B7%A0%A2%F6%F7%B7%A0%A2%E0%F7%F4%E0%FB%F5%F7%E0%F3%FC%E6%F7%E1%B7%A1%D1%BD%E1%E2%F3%FC%B7%A1%D7%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%F1%F3%E1%F7%C1%F7%FC%E1%FB%E6%FB%E4%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A0%BE%B0%FF%FD%F6%F7%D0%FD%F3%E0%F6%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%B0%BE%B0%FB%F6%B0%A8%B0%A0%A2%A0%A7%A7%A3%AA%A3%A4%A6%A1%A6%A1%BF%A3%A0%A2%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C0%F7%F3%F6%EB%B0%A8%B0-%C2%E0%F7%E2%F3%E0%F3%F6%FD%AD%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F7%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B0%BE%B0%FF%E1%F5%DA%F3%E2%E2%F7%FC%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%C0%F7%E2%FE%EB%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D7%FC%E6%F7%E0%D1%FD%F6%F7%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%E8%F1%F3%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%D1%FD%F6%F7%B0%A8%B0%D7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B2%FC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B03%D4%FB%FC%B2%F6%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%B3%B0%BE%B0%FF%E1%F5%DC%F7%E5%C5%FD%E0%F6%B0%A8%B0%C2%F3%FE%F3%F0%E0%F3%B2%FC%E7%F7%E4%F3%B0%BE%B0%FF%E1%F5%C1%E6%F3%E0%E6%C5%FB%E6%FA%B0%A8%B0%D7%FF%E2%FB%F7%E8%F3%B2%E2%FD%E0%B2%B7%A3%B0%BE%B0%FF%E1%F5%D1%FD%FC%E6%F3%FB%FC%E6%B0%A8%B0%D1%FD%FC%E6%FB%F7%FC%F7%B2%FE%F3%B2%FE%F7%E6%E0%F3%B2%B7%A3%B0%BE%B0%FF%E1%F5%C2%F3%E1%E1%B0%A8%B0%C2%F3%E1%F3%E0%B2%F3%B2%FE%F3%B2%E1%FB%F5%E7%FB%F7%FC%E6%F7%B2%E2%F3%FE%F3%F0%E0%F3%B0%BE%B0%FF%E1%F5%DB%FC%F6%FB%F1%F3%E6%F7%C5%FD%E0%F6%B0%A8%B0%DB%FC%E6%E0%FD%F6%E7%E8%F1%F3%B2%E7%FC%F3%B2%E2%F3%FE%F3%F0%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%DC%F7%E5%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F7%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B2%FD%E6%E0%F3%B2%E2%F3%E0%E6%FB%F6%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DA%F3%E1%B0%A8%B0%C6%FB%F7%FC%F7%B2%B7%A3%B2%F3%F1%FB%F7%E0%E6%FD%E1%B2%EB%B2%B7%A0%B2%F4%F3%FE%FE%FD%E1%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%D3%F5%F3%FB%FC%B0%A8%B0%D8%E7%F5%F3%E0%B2%FD%E6%E0%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%C0%F7%E3%E7%FB%E0%F7%F6%D3%F1%F1%F7%E1%E1%D9%F7%EB%B0%A8%B0%D7%E1%B2%FC%F7%F1%F7%E1%F3%E0%FB%FD%B2%F7%FE%B2%F1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B0%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F7%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%DE%7F%FF%FB%E6%F7%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B2%BA%FF%FF%A8%E1%E1%BB%B0%BE%B0%FF%E1%F5%DD%FC%F7%C0%FD%E7%FC%F6%B0%A8%B0%C7%FC%F3%B2%E4%E7%F7%FE%E6%F3%B0%BE%B0%FF%E1%F5%C6%FD%E5%C0%FD%E7%FC%F6%E1%B0%A8%B0%D6%FD%E1%B2%E4%E7%F7%FE%E6%F3%E1%B0%BE%B0%FF%E1%F5%DB%FF%F3%F5%F7%B0%A8%B0%DB%FF%F3%F5%F7%FC%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%C5%E0%FD%E6%F7%B0%A8%B0%D7%E1%F1%E0%FB%F0%F3%B2%FE%F3%B2%E2%F3%FE%F3%F0%E0%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%B2%EB%B2%E2%E7%FE%E1%F7%B2%F7%FC%B2%C0%F7%E1%E2%FD%FC%F6%F7%E0%BC%B2%C1%FB%B2%F6%E7%F6%F3%BE%B2%E2%E7%FE%E1%F7%B2%F7%FC%B2%C1%F7%F5%E7%FB%E0%BC%B0%BE%B0%FF%E1%F5%DC%FD%E6%DC%F7%E6%E5%FD%E0%F9%B0%A8%B0%D3%B2%F7%E1%E6%F7%B2%F8%E7%F7%F5%FD%B2%E1a%FE%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%F1%FD%FC%B2%F1%FD%FC%F7%EA%FBa%FC%B2%F3%B2%FB%FC%E6%F7%E0%FC%F7%E6%BC%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%D3%FC%E6%F7%E1%B2%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F1%FD%FF%FB%F7%FC%F1%F7%B2%FE%F3%B2%E2%F3%E0%E6%FB%F6%F3%BC%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%C0%FD%E7%FE%F7%E6%E6%F7%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%F7%FE%B2%E0%FD%E1%F1%FD%B2%F6%F7%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%FF%E1%F5%DA%FB%F6%F7%C0%FD%E7%FE%F7%E6%E6%F7%B0%A8%B0%DD%F1%E7%FE%E6%F3%E0%B2%F7%FE%B2%E0%FD%E1%F1%FD%B2%F6%F7%B2%E2%F3%FE%F3%F0%E0%F3%E1%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%D3%FC%E1%E5%F7%E0%B0%A8%B0%C0%F7%E1%E2%FD%FC%F6%F7%E0%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1a%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1a%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1a%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DF%FD%E4%F7%DD%FC%F7%B0%A8%B0%C2%F3%E1%F3%E0%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D1%FD%E0%E0%F7%F1%E6%B0%A8%B0%D1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%DB%FC%F1%FD%E0%E0%F7%F1%E6%B0%A8%B0%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B0%BE%B0%FF%E1%F5%C5%FA%FB%E6%F7%D0%FD%F3%E0%F6%B0%A8%B0%C2%FB%E8%F3%E0%E0%F3%B2%F6%FB%F5%FB%E6%F3%FE%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%C0%FD%E1%F1%FD%B0%BE%B0%FF%E1%F5%C1%FA%FD%E5%C5%FD%E0%F6%E1%B0%A8%B0%DF%FD%E1%E6%E0%F3%E0%B2%FE%F3%E1%B2%E1%FD%FE%E7%F1%FB%FD%FC%F7%E1%B0%BE%B0%FF%E1%F5%D3%FE%FE%B0%A8%B0%C6%FD%F6%F3%E1%B0%BE%B0%FF%E1%F5%C7%FC%F3%FC%E1%E5%F7%E0%F7%F6%B0%A8%B0%C1%FB%FC%B2%F1%FD%FC%E6%F7%E1%E6%F3%E0%B0%EF%EF</div><a href="{{context_path}}/content/resources/manometro-2.jpg" class="js-hidden rosco-LinkImages">0</a><a href="{{context_path}}/content/resources/bascula-carga-gas-refrigerante-aire-acondicionado-100-kg-category.png" class="js-hidden rosco-LinkImages">1</a><a href="#" class="js-hidden rosco-LinkImages">2</a><a href="#" class="js-hidden rosco-LinkImages">3</a><a href="#" class="js-hidden rosco-LinkImages">4</a><a href="#" class="js-hidden rosco-LinkImages">5</a><a href="#" class="js-hidden rosco-LinkImages">6</a><a href="#" class="js-hidden rosco-LinkImages">7</a><a href="#" class="js-hidden rosco-LinkImages">8</a><a href="#" class="js-hidden rosco-LinkImages">9</a><a href="#" class="js-hidden rosco-LinkImages">10</a><a href="#" class="js-hidden rosco-LinkImages">11</a><a href="{{context_path}}/content/resources/onized-system-of-classification-and-labelling-of-chemicals-clp-regulation-hazard-ghs-angle-label.png" class="js-hidden rosco-LinkImages">12</a><a href="#" class="js-hidden rosco-LinkImages">13</a><a href="#" class="js-hidden rosco-LinkImages">14</a><a href="#" class="js-hidden rosco-LinkImages">15</a><a href="{{context_path}}/content/resources/manometro-2.jpg" class="js-hidden rosco-LinkImages">16</a><a href="{{context_path}}/content/resources/DMEU_Y1436098_11_std.lang.all.gif" class="js-hidden rosco-LinkImages">17</a><a href="{{context_path}}/content/resources/BIDONES-texto-fondo-blanco.png" class="js-hidden rosco-LinkImages">18</a><a href="{{context_path}}/content/resources/manometro-2.jpg" class="js-hidden rosco-LinkImages">19</a><a href="#" class="js-hidden rosco-LinkImages">20</a><a href="#" class="js-hidden rosco-LinkImages">21</a><a href="#" class="js-hidden rosco-LinkImages">22</a><a href="#" class="js-hidden rosco-LinkImages">23</a><a href="#" class="js-hidden rosco-LinkImages">24</a><a href="#" class="js-hidden rosco-LinkImages">25</a><a href="#" class="js-hidden rosco-LinkImages">26</a><a href="#" class="js-hidden rosco-LinkAudios">0</a><a href="#" class="js-hidden rosco-LinkAudios">1</a><a href="#" class="js-hidden rosco-LinkAudios">2</a><a href="#" class="js-hidden rosco-LinkAudios">3</a><a href="#" class="js-hidden rosco-LinkAudios">4</a><a href="#" class="js-hidden rosco-LinkAudios">5</a><a href="#" class="js-hidden rosco-LinkAudios">6</a><a href="#" class="js-hidden rosco-LinkAudios">7</a><a href="#" class="js-hidden rosco-LinkAudios">8</a><a href="#" class="js-hidden rosco-LinkAudios">9</a><a href="#" class="js-hidden rosco-LinkAudios">10</a><a href="#" class="js-hidden rosco-LinkAudios">11</a><a href="#" class="js-hidden rosco-LinkAudios">12</a><a href="#" class="js-hidden rosco-LinkAudios">13</a><a href="#" class="js-hidden rosco-LinkAudios">14</a><a href="#" class="js-hidden rosco-LinkAudios">15</a><a href="#" class="js-hidden rosco-LinkAudios">16</a><a href="#" class="js-hidden rosco-LinkAudios">17</a><a href="#" class="js-hidden rosco-LinkAudios">18</a><a href="#" class="js-hidden rosco-LinkAudios">19</a><a href="#" class="js-hidden rosco-LinkAudios">20</a><a href="#" class="js-hidden rosco-LinkAudios">21</a><a href="#" class="js-hidden rosco-LinkAudios">22</a><a href="#" class="js-hidden rosco-LinkAudios">23</a><a href="#" class="js-hidden rosco-LinkAudios">24</a><a href="#" class="js-hidden rosco-LinkAudios">25</a><a href="#" class="js-hidden rosco-LinkAudios">26</a><div class="rosco-extra-content"><p><span style="font-family: arial, helvetica, sans-serif;">Realiza todos los intentos que necesites! afianza tu conocimiento en el proceso de carga de refrigerantes</span></p></div><div class="rosco-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"typeGame":"Rosco","instructions":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">Observa cada una de las letras, identifica con imágenes o completa las frases con la palabra adecuada.</span></p>","timeShowSolution":5,"durationGame":300,"numberTurns":2,"showSolution":true,"showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"wordsGame":[{"letter":"A","word":"Azul","definition":"¿De qué color es el latiguillo del puente de manómetros en el que podemos medir baja presión?","type":0,"alt":"","author":"","url":"{{context_path}}/content/resources/manometro-2.jpg","audio":"","x":0.9936507936507937,"y":0.8781746031746032},{"letter":"B","word":"Báscula","definition":"Este objeto nos ayuda a saber cuánto refrigerante estamos cargando","type":0,"alt":"","author":"","url":"{{context_path}}/content/resources/bascula-carga-gas-refrigerante-aire-acondicionado-100-kg-category.png","audio":"","x":0.39365079365079364,"y":0.6273809523809524},{"letter":"C","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"D","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"E","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"F","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"G","word":"Guantes","definition":"Es lo primero que tienes que ponerte antes de realizar cualquier operación con refrigerantes!","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"H","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"I","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"J","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"K","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"L","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"M","word":"Medio ambiente","definition":"Debemos cuidar no verter los refrigerantes a la atmósfera para proteger el...","type":0,"alt":"","author":"","url":"{{context_path}}/content/resources/onized-system-of-classification-and-labelling-of-chemicals-clp-regulation-hazard-ghs-angle-label.png","audio":"","x":0,"y":0},{"letter":"N","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"Ñ","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"O","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"P","word":"Puente de manómetros","definition":"Con este objeto podemos medir las presiones y abrir o cerrar la vía hacia la máquina frigorífica","type":0,"alt":"","author":"","url":"{{context_path}}/content/resources/manometro-2.jpg","audio":"","x":0.9587301587301588,"y":0.2804563492063492},{"letter":"Q","word":"Quemadura","definition":"¿Qué nos puede pasar si no usamos protección en las manos y entramos en contacto con el refrigerante a una temperatura muy baja","type":0,"alt":"","author":"","url":"{{context_path}}/content/resources/DMEU_Y1436098_11_std.lang.all.gif","audio":"","x":0,"y":0},{"letter":"R","word":"R-134a","definition":"¿Cuál es el refrigerante que usamos habitualmente en la carga de frigoríficos?","type":0,"alt":"","author":"","url":"{{context_path}}/content/resources/BIDONES-texto-fondo-blanco.png","audio":"","x":0,"y":0},{"letter":"S","word":"Servicio","definition":"¿Qué latiguillo es el que introduce el refrigerante a nuestra máquina frigorífica?","type":0,"alt":"","author":"","url":"{{context_path}}/content/resources/manometro-2.jpg","audio":"","x":0.9428571428571428,"y":0.9208333333333333},{"letter":"T","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"U","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"V","word":"Vapor","definition":"¿En qué fase es necesario cargar el refrigerante en un compresor hermético?","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"W","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"X","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"Y","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0},{"letter":"Z","word":"","definition":"","type":0,"alt":"","author":"","url":"","audio":"","x":0,"y":0}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":false,"letters":"ABCDEFGHIJKLMNÑOPQRSTUVWXYZ","textAfter":"%3Cp%3E%3Cspan%20style%3D%22font-family%3A%20arial%2C%20helvetica%2C%20sans-serif%3B%22%3ERealiza%20todos%20los%20intentos%20que%20necesites%21%20afianza%20tu%20conocimiento%20en%20el%20proceso%20de%20carga%20de%20refrigerantes%3C/span%3E%3C/p%3E","caseSensitive":false,"version":2,"modeBoard":false,"evaluation":false,"evaluationID":"","id":"2025518164343-120","msgs":{"msgReady":"¿Preparado?","msgStartGame":"Pulse aquí para empezar","msgHappen":"Pasar","msgReply":"Responder","msgSubmit":"Enviar","msgEnterCode":"Introduzca el código de acceso","msgErrorCode":"El código de acceso no es correcto","msgGameOver":"¡Fin de la partida!","msgNewWord":"Palabra nueva","msgStartWith":"Empieza por %1","msgContaint":"Contiene la letra %1","msgPass":"Pasar a la siguiente palabra","msgIndicateWord":"Introduzca una palabra","msgClue":"¡Genial! La pista es:","msgNewGame":"Pulse aquí para empezar otra partida","msgYouHas":"Tiene %1 aciertos y %2 fallos","msgCodeAccess":"Código de acceso","msgPlayAgain":"Jugar otra vez","msgRequiredAccessKey":"Es necesario el código de acceso","msgInformationLooking":"La información que estaba buscando","msgPlayStart":"Pulse aquí para jugar","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgHits":"Aciertos","msgErrors":"Errores","msgTime":"Límite de tiempo (mm:ss)","msgOneRound":"Una vuelta","msgTowRounds":"Dos vueltas","msgImage":"Imagen","msgNoImage":"Sin imágenes","msgWrote":"Escriba la palabra correcta y pulse en Responder. Si duda, pulse en Seguir.","msgNotNetwork":"A este juego sólo se puede jugar con conexión a internet.","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgEndGameScore":"Antes de guardar la puntuación comience la partida.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgShowRoulette":"Mostrar el rosco de palabras","msgHideRoulette":"Ocultar el rosco de palabras","msgQuestion":"Pregunta","msgAnswer":"Responder","msgOnlySaveScore":"¡Sólo puede guardar la puntuación una vez!","msgOnlySave":"Sólo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Sólo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgAuthor":"Autoría","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgMoveOne":"Pasar","msgAudio":"Audio","msgCorrect":"Correcto","msgIncorrect":"Incorrecto","msgWhiteBoard":"Pizarra digital","msgClose":"Cerrar","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Rosco","msgShowWords":"Mostrar las soluciones","msgAll":"Todas","msgUnanswered":"Sin contestar"}}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-1775029400127-u7vt6byh9</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía didáctica con criterios de evaluación</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía didáctica con criterios de evaluación</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1775029400127-u7vt6byh9</odePageId>
+      <odeBlockId>block-1775029435460-urr2vo78l</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775029400127-u7vt6byh9</odePageId>
+          <odeBlockId>block-1775029435460-urr2vo78l</odeBlockId>
+          <odeIdeviceId>idevice-1775029435458-84rs7hyj9</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><img src="{{context_path}}/content/resources/111.png" title="Instrumentos de evaluación 1" width="537" height="790" alt="" /></p>
+<p><img src="{{context_path}}/content/resources/222.png" title="Instrumentos de evaluación 2" width="542" height="347" alt="" /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775029435458-84rs7hyj9","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><img src=\"{{context_path}}/content/resources/111.png\" title=\"Instrumentos de evaluación 1\" width=\"537\" height=\"790\" alt=\"\" /></p>\n<p><img src=\"{{context_path}}/content/resources/222.png\" title=\"Instrumentos de evaluación 2\" width=\"542\" height=\"347\" alt=\"\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-1775029400127-u7vt6byh9</odePageId>
+      <odeBlockId>block-1775029578380-mvethxu2c</odeBlockId>
+      <blockName>CRITERIOS DE EVALUACIÓN ASOCIADOS A LAS TAREAS</blockName>
+      <iconName>math</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1775029400127-u7vt6byh9</odePageId>
+          <odeBlockId>block-1775029578380-mvethxu2c</odeBlockId>
+          <odeIdeviceId>idevice-1775029578378-3dv68v6if</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>Relacionamos tareas con criterios de evaluación</strong></p>
+<p><strong> TAREA </strong><br />1 ¿Por qué enfría un aire acondicionado? Observar un equipo real y formular hipótesis sobre su funcionamiento.El alumnado observa un equipo de aire acondicionado en funcionamiento y responde:</p>
+<p>¿Por qué sale aire frío?<br />¿Qué partes intervienen?<br />¿Qué ocurre si cambia la temperatura exterior?</p>
+<p>Grupos de 3 alumnos<br />1 sesión de 60 minutos <br />Vídeo + simulador básico (YouTube + GeoGebra)</p>
+<p><strong> TAREA </strong></p>
+<p>2 ¿Cómo afecta la temperatura al rendimiento? </p>
+<p>El alumnado mide: Temperatura de entrada/salida, Tiempo de enfriamiento</p>
+<p>Luego: Registra datos, Hace una tabla y Saca conclusiones. </p>
+<p>Comprueban si sus hipótesis iniciales eran correctas.</p>
+<p>Trabajo en parejas<br />2 sesiones de 60 minutos<br />Hoja de cálculo (Excel o Google Sheets)</p>
+<p><strong> TAREA </strong><br />3 ¿Qué sistema de climatización es más eficiente?</p>
+<p>Se plantean dos sistemas: Split y un Sistema centralizado</p>
+<p>El alumnado: Investiga, Formula hipótesis, Calcula consumo, Justifica cuál es mejor</p>
+<p>Deben explicar y defender su decisión.Grupos de 4<br />3 sesiones de 60 minutos <br />Padlet o Canva (para presentación)</p>
+<p><em>PARA LAS TAREAS 1, 2 Y 3 USAREMOS ESTE CRITERIO DE EVALUACIÓN</em></p>
+<p><strong>2.1. Realizar observaciones sobre el entorno cotidiano, plantear preguntas e hipótesis que puedan ser respondidas o contrastadas utilizando los métodos científicos, para alcanzar la capacidad de realizar observaciones, formular preguntas e hipótesis y comprobar la veracidad de las mismas mediante el empleo de la experimentación, el análisis de los resultados y utilizando las herramientas y normativas que sean convenientes en cada caso, explicando fenómenos naturales y realizando predicciones sobre estos. </strong></p>
+<p><strong> TAREA </strong></p>
+<p>4. Cálculo de consumo eléctrico de un equipo</p>
+<p>El alumnado calcula cuánto consume un aire acondicionado en un día:Datos: potencia (kW) y horas de uso, Operación: multiplicación<br />Interpretación: coste aproximado<strong></strong><br />Trabajo individual <br />1 sesión de 60 minutos<br />Calculadora o Google Sheets</p>
+<p><strong> TAREA </strong><br />5 ¿Qué habitación necesita más potencia? se comparan dos habitaciones: Calculan superficie (m²), Relacionan con potencia necesaria. Deciden cuál necesita más climatización</p>
+<p>Por parejas<br />1 sesión de 60 minutos<br />Hoja de cálculo o calculadora<br />6 Presupuesto de instalación básica</p>
+<p>El alumnado recibe precios: Equipo, Instalación,Materiales Deben: Sumar costes, Calcular presupuesto total, Explicar el resultado</p>
+<p>Grupos de tres alumnos<br />2  sesión de 60 minutos <br />Excel / Canva (para presentar presupuesto)</p>
+<p><strong> TAREA </strong><br />6. Cálculo de tuberías necesarias</p>
+<p>Se debe medir longitudes, sumar metros de tubería e Interpretar resultado (material necesario)</p>
+<p>Por Parejas<br />1 sesión de 60 minutos<br />Regla + papel cuadriculado o GeoGebra</p>
+<p><em>PARA LAS TAREAS 4, 5 Y 6 USAREMOS ESTE CRITERIO DE EVALUACIÓN</em></p>
+<p><strong> STEM1 Resolver problemas sencillos de la vida cotidiana utilizando operaciones matemáticas básicas, interpretando los resultados obtenidos y explicando el procedimiento seguido.</strong><br /></p>
+<p><br /></p>
+<p></p>
+<p><br /></p>
+<p><br /></p>
+<p><br /></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1775029578378-3dv68v6if","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>Relacionamos tareas con criterios de evaluación</strong></p>\n<p><strong> TAREA </strong><br />1 ¿Por qué enfría un aire acondicionado? Observar un equipo real y formular hipótesis sobre su funcionamiento.El alumnado observa un equipo de aire acondicionado en funcionamiento y responde:</p>\n<p>¿Por qué sale aire frío?<br />¿Qué partes intervienen?<br />¿Qué ocurre si cambia la temperatura exterior?</p>\n<p>Grupos de 3 alumnos<br />1 sesión de 60 minutos <br />Vídeo + simulador básico (YouTube + GeoGebra)</p>\n<p><strong> TAREA </strong></p>\n<p>2 ¿Cómo afecta la temperatura al rendimiento? </p>\n<p>El alumnado mide: Temperatura de entrada/salida, Tiempo de enfriamiento</p>\n<p>Luego: Registra datos, Hace una tabla y Saca conclusiones. </p>\n<p>Comprueban si sus hipótesis iniciales eran correctas.</p>\n<p>Trabajo en parejas<br />2 sesiones de 60 minutos<br />Hoja de cálculo (Excel o Google Sheets)</p>\n<p><strong> TAREA </strong><br />3 ¿Qué sistema de climatización es más eficiente?</p>\n<p>Se plantean dos sistemas: Split y un Sistema centralizado</p>\n<p>El alumnado: Investiga, Formula hipótesis, Calcula consumo, Justifica cuál es mejor</p>\n<p>Deben explicar y defender su decisión.Grupos de 4<br />3 sesiones de 60 minutos <br />Padlet o Canva (para presentación)</p>\n<p><em>PARA LAS TAREAS 1, 2 Y 3 USAREMOS ESTE CRITERIO DE EVALUACIÓN</em></p>\n<p><strong>2.1. Realizar observaciones sobre el entorno cotidiano, plantear preguntas e hipótesis que puedan ser respondidas o contrastadas utilizando los métodos científicos, para alcanzar la capacidad de realizar observaciones, formular preguntas e hipótesis y comprobar la veracidad de las mismas mediante el empleo de la experimentación, el análisis de los resultados y utilizando las herramientas y normativas que sean convenientes en cada caso, explicando fenómenos naturales y realizando predicciones sobre estos. </strong></p>\n<p><strong> TAREA </strong></p>\n<p>4. Cálculo de consumo eléctrico de un equipo</p>\n<p>El alumnado calcula cuánto consume un aire acondicionado en un día:Datos: potencia (kW) y horas de uso, Operación: multiplicación<br />Interpretación: coste aproximado<strong></strong><br />Trabajo individual <br />1 sesión de 60 minutos<br />Calculadora o Google Sheets</p>\n<p><strong> TAREA </strong><br />5 ¿Qué habitación necesita más potencia? se comparan dos habitaciones: Calculan superficie (m²), Relacionan con potencia necesaria. Deciden cuál necesita más climatización</p>\n<p>Por parejas<br />1 sesión de 60 minutos<br />Hoja de cálculo o calculadora<br />6 Presupuesto de instalación básica</p>\n<p>El alumnado recibe precios: Equipo, Instalación,Materiales Deben: Sumar costes, Calcular presupuesto total, Explicar el resultado</p>\n<p>Grupos de tres alumnos<br />2  sesión de 60 minutos <br />Excel / Canva (para presentar presupuesto)</p>\n<p><strong> TAREA </strong><br />6. Cálculo de tuberías necesarias</p>\n<p>Se debe medir longitudes, sumar metros de tubería e Interpretar resultado (material necesario)</p>\n<p>Por Parejas<br />1 sesión de 60 minutos<br />Regla + papel cuadriculado o GeoGebra</p>\n<p><em>PARA LAS TAREAS 4, 5 Y 6 USAREMOS ESTE CRITERIO DE EVALUACIÓN</em></p>\n<p><strong> STEM1 Resolver problemas sencillos de la vida cotidiana utilizando operaciones matemáticas básicas, interpretando los resultados obtenidos y explicando el procedimiento seguido.</strong><br /></p>\n<p><br /></p>\n<p></p>\n<p><br /></p>\n<p><br /></p>\n<p><br /></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfqi5p2-2zdxjyxsn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Contenidos EXTRA</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Contenidos EXTRA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Contenidos EXTRA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Contenidos EXTRA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfqi5p2-2zdxjyxsn</odePageId>
+      <odeBlockId>block-mnf2epqx-x79yj0305</odeBlockId>
+      <blockName>Contenidos EXTRA para ser un gran frigorista</blockName>
+      <iconName>letters</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5p2-2zdxjyxsn</odePageId>
+          <odeBlockId>block-mnf2epqx-x79yj0305</odeBlockId>
+          <odeIdeviceId>idevice-mnf2epqx-vwe53nv19</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-family: arial, helvetica, sans-serif;">Los contenidos que podrás explorar en este REA son:</span></p>
+<div class="exe-fx exe-carousel">
+<h2>Los componentes básicos de un frigorífico</h2>
+<p>En esta sección aprenderás a identificar los componentes de un frigorífico y su funcionamiento para que, gracias a la termodinámica se pueda extraer calor del interior y expulsarlo al exterior del electrodoméstico.</p>
+<h2>Las herramientas necesarias para la carga de refrigerante en un frigorífico</h2>
+<p>¿Qué herramientas son necesarias para la carga de refrigerante en la máquina frigorífica? ¿Qué precauciones son necesarias para que el proceso se realice adecuadamente?</p>
+<h2>El proceso de carga de refrigerante en un frigorífico</h2>
+<p>Realiza el proceso de carga de refrigerante en la máquina frigorífica con seguridad y respeto al medio ambiente. Sigue cada uno de los pasos y realiza el proceso en el taller posteriormente.</p>
+</div>
+<p></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="Mostrar retroalimentación" /></div><div class="feedback js-feedback js-hidden"><p><span style="font-family: arial, helvetica, sans-serif;">Continúa a la siguiente página para explorar los contenidos de este REA</span></p></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">Los contenidos que podrás explorar en este REA son:</span></p>\n<div class=\"exe-fx exe-carousel\">\n<h2>Los componentes básicos de un frigorífico</h2>\n<p>En esta sección aprenderás a identificar los componentes de un frigorífico y su funcionamiento para que, gracias a la termodinámica se pueda extraer calor del interior y expulsarlo al exterior del electrodoméstico.</p>\n<h2>Las herramientas necesarias para la carga de refrigerante en un frigorífico</h2>\n<p>¿Qué herramientas son necesarias para la carga de refrigerante en la máquina frigorífica? ¿Qué precauciones son necesarias para que el proceso se realice adecuadamente?</p>\n<h2>El proceso de carga de refrigerante en un frigorífico</h2>\n<p>Realiza el proceso de carga de refrigerante en la máquina frigorífica con seguridad y respeto al medio ambiente. Sigue cada uno de los pasos y realiza el proceso en el taller posteriormente.</p>\n</div>\n<p></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbackbutton\" value=\"Mostrar retroalimentación\" /></div><div class=\"feedback js-feedback js-hidden\"><p><span style=\"font-family: arial, helvetica, sans-serif;\">Continúa a la siguiente página para explorar los contenidos de este REA</span></p></div>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfqi5p2-9oxxe8729</odePageId>
+  <odeParentPageId>page-mnfqi5p2-2zdxjyxsn</odeParentPageId>
+  <pageName>REA el frigorífico</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>REA el frigorífico</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>REA el frigorífico</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>REA el frigorífico</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfqi5p2-9oxxe8729</odePageId>
+      <odeBlockId>block-mnf2epqx-ezf8xwv9g</odeBlockId>
+      <blockName></blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5p2-9oxxe8729</odePageId>
+          <odeBlockId>block-mnf2epqx-ezf8xwv9g</odeBlockId>
+          <odeIdeviceId>idevice-mnf2epqx-djkb69t2w</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-family: arial, helvetica, sans-serif;">En este REA vamos a adentrarnos en el fascinante mundo del frío industrial, centrándonos en uno de los electrodomésticos más presentes en nuestra vida diaria: <strong><span style="font-size: 18pt; color: #339966;">"el frigorífico"</span></strong>.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">Entenderemos en profundidad su funcionamiento, desde los principios básicos de la termodinámica hasta cómo se trasladan estos conceptos a un sistema práctico y eficiente. Analizaremos cada uno de sus componentes <strong><span style="color: #339966;">—compresor, condensador, evaporador y válvula de expansión—</span> </strong>para que no solo sepáis cómo funcionan, sino que seáis capaces de diagnosticar problemas y aplicar soluciones reales como verdaderos profesionales del sector.</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">Además, aprenderemos a realizar uno de los procedimientos más importantes y delicados en cualquier sistema frigorífico: <span style="font-size: 14pt;"><strong><span style="color: #339966;">la carga de refrigerante.</span></strong></span> </span><span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 14pt;"><strong><span style="color: #339966;"></span></strong></span></span></p>
+<figure class="exe-figure exe-image license-CC-BY-SA" style="width: 249px;"><img src="{{context_path}}/content/resources/cover_googleplus.png" alt="Botellas de fluidos refrigerantes de diferentes colores" width="356" height="200" />
+<figcaption class="figcaption"><span style="font-size: 8pt;"><a href="https://commons.wikimedia.org/wiki/File:Cover_googleplus.png" target="_blank" class="author" rel="noopener">https://commons.wikimedia.org/wiki/File:Cover_googleplus.png</a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></span></figcaption>
+<span style="font-family: arial, helvetica, sans-serif;"><span style="font-size: 14pt;"><strong><span style="color: #339966;"></span></strong></span></span></figure>
+<p><span style="font-family: arial, helvetica, sans-serif;">Esta operación requiere precisión, conocimientos técnicos y un enfoque responsable con el medioambiente.  Os formaréis en los protocolos correctos para manipular el refrigerante, respetando siempre la normativa vigente y las buenas prácticas. Este REA también os acerca un paso más a ser técnicos competentes y conscientes del impacto de vuestro trabajo. <strong><span style="color: #339966; font-size: 24pt;">¡Vamos a por ello!</span></strong></span></p><div class="iDevice_buttons feedback-button js-required"><input type="button" class="feedbackbutton" value="Mostrar retroalimentación" /></div><div class="feedback js-feedback js-hidden"><p>Este REA está contextualizado en el doble CFGM de Instalaciones de producción de calor, frío y climatización, para el módulo de Montaje y mantenimiento de instalaciones frigoríficas industriales.</p>
+<p>En este REA se utiliza la metodología de "Flipped Classroom".</p></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">En este REA vamos a adentrarnos en el fascinante mundo del frío industrial, centrándonos en uno de los electrodomésticos más presentes en nuestra vida diaria: <strong><span style=\"font-size: 18pt; color: #339966;\">\"el frigorífico\"</span></strong>.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Entenderemos en profundidad su funcionamiento, desde los principios básicos de la termodinámica hasta cómo se trasladan estos conceptos a un sistema práctico y eficiente. Analizaremos cada uno de sus componentes <strong><span style=\"color: #339966;\">—compresor, condensador, evaporador y válvula de expansión—</span> </strong>para que no solo sepáis cómo funcionan, sino que seáis capaces de diagnosticar problemas y aplicar soluciones reales como verdaderos profesionales del sector.</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Además, aprenderemos a realizar uno de los procedimientos más importantes y delicados en cualquier sistema frigorífico: <span style=\"font-size: 14pt;\"><strong><span style=\"color: #339966;\">la carga de refrigerante.</span></strong></span> </span><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 14pt;\"><strong><span style=\"color: #339966;\"></span></strong></span></span></p>\n<figure class=\"exe-figure exe-image license-CC-BY-SA\" style=\"width: 249px;\"><img src=\"{{context_path}}/content/resources/cover_googleplus.png\" alt=\"Botellas de fluidos refrigerantes de diferentes colores\" width=\"356\" height=\"200\" />\n<figcaption class=\"figcaption\"><span style=\"font-size: 8pt;\"><a href=\"https://commons.wikimedia.org/wiki/File:Cover_googleplus.png\" target=\"_blank\" class=\"author\" rel=\"noopener\">https://commons.wikimedia.org/wiki/File:Cover_googleplus.png</a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></span></figcaption>\n<span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-size: 14pt;\"><strong><span style=\"color: #339966;\"></span></strong></span></span></figure>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Esta operación requiere precisión, conocimientos técnicos y un enfoque responsable con el medioambiente.  Os formaréis en los protocolos correctos para manipular el refrigerante, respetando siempre la normativa vigente y las buenas prácticas. Este REA también os acerca un paso más a ser técnicos competentes y conscientes del impacto de vuestro trabajo. <strong><span style=\"color: #339966; font-size: 24pt;\">¡Vamos a por ello!</span></strong></span></p><div class=\"iDevice_buttons feedback-button js-required\"><input type=\"button\" class=\"feedbackbutton\" value=\"Mostrar retroalimentación\" /></div><div class=\"feedback js-feedback js-hidden\"><p>Este REA está contextualizado en el doble CFGM de Instalaciones de producción de calor, frío y climatización, para el módulo de Montaje y mantenimiento de instalaciones frigoríficas industriales.</p>\n<p>En este REA se utiliza la metodología de \"Flipped Classroom\".</p></div>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfqi5p2-g9k26fmnp</odePageId>
+  <odeParentPageId>page-mnfqi5p2-2zdxjyxsn</odeParentPageId>
+  <pageName>Componentes básicos de un frigorífico</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Componentes básicos de un frigorífico</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Componentes básicos de un frigorífico</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfqi5p2-g9k26fmnp</odePageId>
+      <odeBlockId>block-mnf2epqx-7x7pjtm06</odeBlockId>
+      <blockName></blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5p2-g9k26fmnp</odePageId>
+          <odeBlockId>block-mnf2epqx-7x7pjtm06</odeBlockId>
+          <odeIdeviceId>idevice-mnf2epqx-mykm9ir4t</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-family: arial, helvetica, sans-serif;">¡Explora los componentes de un frigorífico y aprende su funcionamiento!</span></p>
+<div style="width: 100%;">
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;"><iframe width="1200" height="675" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" title="¿Cómo funciona un frigorífico?" frameborder="0" src="https://view.genially.com/682a20562cd040717d4e39c4" type="text/html" allowscriptaccess="always" allowfullscreen="allowfullscreen" scrolling="yes" allownetworking="all"></iframe></div>
+</div>
+<p></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">¡Explora los componentes de un frigorífico y aprende su funcionamiento!</span></p>\n<div style=\"width: 100%;\">\n<div style=\"position: relative; padding-bottom: 56.25%; padding-top: 0; height: 0;\"><iframe width=\"1200\" height=\"675\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%;\" title=\"¿Cómo funciona un frigorífico?\" frameborder=\"0\" src=\"https://view.genially.com/682a20562cd040717d4e39c4\" type=\"text/html\" allowscriptaccess=\"always\" allowfullscreen=\"allowfullscreen\" scrolling=\"yes\" allownetworking=\"all\"></iframe></div>\n</div>\n<p></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfqi5p2-wm99ougjr</odePageId>
+  <odeParentPageId>page-mnfqi5p2-2zdxjyxsn</odeParentPageId>
+  <pageName>Herramientas necesarias para la carga de refrigerante</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas necesarias para la carga de refrigerante</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Herramientas necesarias para la carga de refrigerante</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfqi5p2-wm99ougjr</odePageId>
+      <odeBlockId>block-mnf2epqx-76i3m845l</odeBlockId>
+      <blockName></blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5p2-wm99ougjr</odePageId>
+          <odeBlockId>block-mnf2epqx-76i3m845l</odeBlockId>
+          <odeIdeviceId>idevice-mnf2epqx-dwem2lvof</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-family: arial, helvetica, sans-serif;">Prepárate y ponte los EPIs. ¡nos ponemos manos a la obra!</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">Lo primero de todo consulta el <a href="https://industria.gob.es/Calidad-Industrial/seguridadindustrial/instalacionesindustriales/instaciones-frigorificas/Paginas/reglamento-seguridad-rd-5522019.aspx">REGLAMENTO DE SEGURIDAD PARA INSTALACIONES FRIGORÍFICAS</a>. Si pulsas sobre el texto te llevará al reglamento.</span></p>
+<p><span style="color: #339966;"><strong><span style="font-family: arial, helvetica, sans-serif;">CARGA DE REFRIGERANTE<br />Herramientas y Equipos de Protección (EPIs)</span></strong></span></p>
+<p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif;">Lo primero que debemos tener en cuenta es el apartado de 🦺 <strong>EPIs</strong> (Equipos de protección individual):</span></p>
+<ol>
+<li><strong><span style="font-family: arial, helvetica, sans-serif;">Gafas de seguridad</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Protección ocular frente a salpicaduras.</span></li>
+<li><strong><span style="font-family: arial, helvetica, sans-serif;">Guantes resistentes</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Evitan quemaduras químicas o por frío.</span></li>
+<li><strong><span style="font-family: arial, helvetica, sans-serif;">Ropa de trabajo</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Protege y permite movilidad.</span></li>
+<li><strong><span style="font-family: arial, helvetica, sans-serif;">Calzado de seguridad</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Previene lesiones por golpes o caídas.</span></li>
+</ol>
+<figure class="exe-figure exe-image license-CC-BY-NC-SA" style="width: 300px; text-align: right;"><img src="{{context_path}}/content/resources/50187764471_e26c306b01_b.jpg" alt="Trabajador con todos los equipos de protección individual puestos" width="300" height="200" />
+<figcaption class="figcaption"><span style="font-size: 8pt;"><a href="https://www.flickr.com/photos/repsol/50187764471" target="_blank" class="title" rel="noopener"><em>https://www.flickr.com/photos/repsol/50187764471</em></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-NC-SA">CC BY-NC-SA</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+<p><span style="font-family: arial, helvetica, sans-serif;">🔧 <strong>HERRAMIENTAS</strong></span></p>
+<ol>
+<li><strong><span style="font-family: arial, helvetica, sans-serif;">Manifold (Puente de manómetros)</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Para medir presiones alta y baja y controlar la carga con las llaves de apertura y cierre.</span></li>
+<li><strong><span style="font-family: arial, helvetica, sans-serif;">Mangueras de carga</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Conectan manómetro, cilindro de refrigerante (manguera amarilla de servicio) y sistema frigorífico (mangueras azul y roja para baja y alta respectivamente).</span>
+<figure class="exe-figure exe-image license-CC0" style="width: 300px;"><img src="{{context_path}}/content/resources/manometro_2.jpg" alt="Puente de manómetros con mangueras azul roja y amarilla de servicio" width="300" height="300" />
+<figcaption class="figcaption"><span style="font-size: 8pt;"><a href="https://www.maquinas-maquinas.com/maquinaria/alquiler-maquinaria-refrigeracion/puente-de-manometro-y-manguera-para-gas-r-410/" target="_blank" class="author" rel="noopener">https://www.maquinas-maquinas.com/maquinaria/alquiler-maquinaria-refrigeracion/puente-de-manometro-y-manguera-para-gas-r-410/</a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+<span style="font-family: arial, helvetica, sans-serif;"><br /></span></li>
+<li><strong><span style="font-family: arial, helvetica, sans-serif;">Báscula electrónica</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;"><span style="font-family: arial, helvetica, sans-serif;">Para pesar el refrigerante con precisión y realizar la carga exacta que necesite nuestra instalación frigorífica.</span></span>
+<figure class="exe-figure exe-image license-CC-BY-SA" style="width: 300px;"><img src="{{context_path}}/content/resources/bascula_carga_gas_refrigerante_aire_acondicionado_100_kg_category.png" alt="báscula para pesar refrigerantes" width="300" height="300" />
+<figcaption class="figcaption"><span style="font-size: 8pt;"><a href="https://climasuministros.es/es/bascula/125-bascula-carga-gas-refrigerante-aire-acondicionado-100-kg-category.html" target="_blank" class="author" rel="noopener">https://climasuministros.es/es/bascula/125-bascula-carga-gas-refrigerante-aire-acondicionado-100-kg-category.html</a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+<span style="font-family: arial, helvetica, sans-serif;"><br /></span></li>
+<li><strong><span style="font-family: arial, helvetica, sans-serif;">Cilindro de refrigerante</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;"><span style="font-family: arial, helvetica, sans-serif;">Contiene el gas refrigerante. Tiene dos tomas (la de líquido y la de vapor). Dependiendo de si cargamos refrigerante en fase líquida o vapor usaremos una u otra toma. En cilindros donde sólo exista una toma se deberá dar la vuelta a la botella.</span></span>
+<figure class="exe-figure exe-image license-CC-BY-SA" style="width: 300px;"><img src="{{context_path}}/content/resources/cover_googleplus.1.png" alt="Diferentes botellas o cilindros de refrigerante" width="300" height="169" />
+<figcaption class="figcaption"><span style="font-size: 8pt;"><a href="https://commons.wikimedia.org/wiki/File:Cover_googleplus.png" target="_blank" class="author" rel="noopener">https://commons.wikimedia.org/wiki/File:Cover_googleplus.png</a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+<span style="font-family: arial, helvetica, sans-serif;"><br /></span></li>
+<li><strong><span style="font-family: arial, helvetica, sans-serif;">Detector de fugas</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;"><span style="font-family: arial, helvetica, sans-serif;">Localiza escapes en el circuito. Previamente se ha realizado la prueba de presión por lo que no deberían existir fugas. Es una medida de seguridad posterior para asegurarnos que no se va a perder el refrigerante.</span></span>
+<figure class="exe-figure exe-image license-CC-BY-SA" style="width: 300px;"><img src="{{context_path}}/content/resources/img4.png" alt="Detector de fugas con su maletín y elementos de conexión" width="300" height="201" />
+<figcaption class="figcaption"><span style="font-size: 8pt;"><a href="https://www.testo.com/es-ES/detector-de-fugas-testo-316-4/p/0563-3164" target="_blank" class="author" rel="noopener">https://www.testo.com/es-ES/detector-de-fugas-testo-316-4/p/0563-3164</a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></span></figcaption>
+</figure>
+<span style="font-family: arial, helvetica, sans-serif;"></span></li>
+<li><strong><span style="font-family: arial, helvetica, sans-serif;">Llave ajustable</span></strong><br /><span style="font-family: arial, helvetica, sans-serif;">Abre o ajusta válvulas de servicio que tenemos que operar a la hora de cargar la instalación con refrigerante.</span><span style="font-family: arial, helvetica, sans-serif;"></span></li>
+</ol>
+<p><span style="font-family: arial, helvetica, sans-serif;"></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif;">🛑 ¡La seguridad es parte del trabajo profesional!<br /><span style="color: #339966;">Nunca realices la carga sin tus EPIs ni sin revisar el equipo.</span></span></p>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">Prepárate y ponte los EPIs. ¡nos ponemos manos a la obra!</span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">Lo primero de todo consulta el <a href=\"https://industria.gob.es/Calidad-Industrial/seguridadindustrial/instalacionesindustriales/instaciones-frigorificas/Paginas/reglamento-seguridad-rd-5522019.aspx\">REGLAMENTO DE SEGURIDAD PARA INSTALACIONES FRIGORÍFICAS</a>. Si pulsas sobre el texto te llevará al reglamento.</span></p>\n<p><span style=\"color: #339966;\"><strong><span style=\"font-family: arial, helvetica, sans-serif;\">CARGA DE REFRIGERANTE<br />Herramientas y Equipos de Protección (EPIs)</span></strong></span></p>\n<p style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Lo primero que debemos tener en cuenta es el apartado de 🦺 <strong>EPIs</strong> (Equipos de protección individual):</span></p>\n<ol>\n<li><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Gafas de seguridad</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Protección ocular frente a salpicaduras.</span></li>\n<li><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Guantes resistentes</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Evitan quemaduras químicas o por frío.</span></li>\n<li><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Ropa de trabajo</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Protege y permite movilidad.</span></li>\n<li><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Calzado de seguridad</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Previene lesiones por golpes o caídas.</span></li>\n</ol>\n<figure class=\"exe-figure exe-image license-CC-BY-NC-SA\" style=\"width: 300px; text-align: right;\"><img src=\"{{context_path}}/content/resources/50187764471_e26c306b01_b.jpg\" alt=\"Trabajador con todos los equipos de protección individual puestos\" width=\"300\" height=\"200\" />\n<figcaption class=\"figcaption\"><span style=\"font-size: 8pt;\"><a href=\"https://www.flickr.com/photos/repsol/50187764471\" target=\"_blank\" class=\"title\" rel=\"noopener\"><em>https://www.flickr.com/photos/repsol/50187764471</em></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-NC-SA\">CC BY-NC-SA</a><span class=\"sep\">)</span></span></span></figcaption>\n</figure>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">🔧 <strong>HERRAMIENTAS</strong></span></p>\n<ol>\n<li><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Manifold (Puente de manómetros)</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Para medir presiones alta y baja y controlar la carga con las llaves de apertura y cierre.</span></li>\n<li><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Mangueras de carga</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Conectan manómetro, cilindro de refrigerante (manguera amarilla de servicio) y sistema frigorífico (mangueras azul y roja para baja y alta respectivamente).</span>\n<figure class=\"exe-figure exe-image license-CC0\" style=\"width: 300px;\"><img src=\"{{context_path}}/content/resources/manometro_2.jpg\" alt=\"Puente de manómetros con mangueras azul roja y amarilla de servicio\" width=\"300\" height=\"300\" />\n<figcaption class=\"figcaption\"><span style=\"font-size: 8pt;\"><a href=\"https://www.maquinas-maquinas.com/maquinaria/alquiler-maquinaria-refrigeracion/puente-de-manometro-y-manguera-para-gas-r-410/\" target=\"_blank\" class=\"author\" rel=\"noopener\">https://www.maquinas-maquinas.com/maquinaria/alquiler-maquinaria-refrigeracion/puente-de-manometro-y-manguera-para-gas-r-410/</a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></span></figcaption>\n</figure>\n<span style=\"font-family: arial, helvetica, sans-serif;\"><br /></span></li>\n<li><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Báscula electrónica</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Para pesar el refrigerante con precisión y realizar la carga exacta que necesite nuestra instalación frigorífica.</span></span>\n<figure class=\"exe-figure exe-image license-CC-BY-SA\" style=\"width: 300px;\"><img src=\"{{context_path}}/content/resources/bascula_carga_gas_refrigerante_aire_acondicionado_100_kg_category.png\" alt=\"báscula para pesar refrigerantes\" width=\"300\" height=\"300\" />\n<figcaption class=\"figcaption\"><span style=\"font-size: 8pt;\"><a href=\"https://climasuministros.es/es/bascula/125-bascula-carga-gas-refrigerante-aire-acondicionado-100-kg-category.html\" target=\"_blank\" class=\"author\" rel=\"noopener\">https://climasuministros.es/es/bascula/125-bascula-carga-gas-refrigerante-aire-acondicionado-100-kg-category.html</a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></span></figcaption>\n</figure>\n<span style=\"font-family: arial, helvetica, sans-serif;\"><br /></span></li>\n<li><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Cilindro de refrigerante</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Contiene el gas refrigerante. Tiene dos tomas (la de líquido y la de vapor). Dependiendo de si cargamos refrigerante en fase líquida o vapor usaremos una u otra toma. En cilindros donde sólo exista una toma se deberá dar la vuelta a la botella.</span></span>\n<figure class=\"exe-figure exe-image license-CC-BY-SA\" style=\"width: 300px;\"><img src=\"{{context_path}}/content/resources/cover_googleplus.1.png\" alt=\"Diferentes botellas o cilindros de refrigerante\" width=\"300\" height=\"169\" />\n<figcaption class=\"figcaption\"><span style=\"font-size: 8pt;\"><a href=\"https://commons.wikimedia.org/wiki/File:Cover_googleplus.png\" target=\"_blank\" class=\"author\" rel=\"noopener\">https://commons.wikimedia.org/wiki/File:Cover_googleplus.png</a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></span></figcaption>\n</figure>\n<span style=\"font-family: arial, helvetica, sans-serif;\"><br /></span></li>\n<li><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Detector de fugas</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Localiza escapes en el circuito. Previamente se ha realizado la prueba de presión por lo que no deberían existir fugas. Es una medida de seguridad posterior para asegurarnos que no se va a perder el refrigerante.</span></span>\n<figure class=\"exe-figure exe-image license-CC-BY-SA\" style=\"width: 300px;\"><img src=\"{{context_path}}/content/resources/img4.png\" alt=\"Detector de fugas con su maletín y elementos de conexión\" width=\"300\" height=\"201\" />\n<figcaption class=\"figcaption\"><span style=\"font-size: 8pt;\"><a href=\"https://www.testo.com/es-ES/detector-de-fugas-testo-316-4/p/0563-3164\" target=\"_blank\" class=\"author\" rel=\"noopener\">https://www.testo.com/es-ES/detector-de-fugas-testo-316-4/p/0563-3164</a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></span></figcaption>\n</figure>\n<span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n<li><strong><span style=\"font-family: arial, helvetica, sans-serif;\">Llave ajustable</span></strong><br /><span style=\"font-family: arial, helvetica, sans-serif;\">Abre o ajusta válvulas de servicio que tenemos que operar a la hora de cargar la instalación con refrigerante.</span><span style=\"font-family: arial, helvetica, sans-serif;\"></span></li>\n</ol>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\"></span></p>\n<p><span style=\"font-family: arial, helvetica, sans-serif;\">🛑 ¡La seguridad es parte del trabajo profesional!<br /><span style=\"color: #339966;\">Nunca realices la carga sin tus EPIs ni sin revisar el equipo.</span></span></p>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfqi5p2-br5dekhp3</odePageId>
+  <odeParentPageId>page-mnfqi5p2-2zdxjyxsn</odeParentPageId>
+  <pageName>Carga de refrigerante en un frigorífico</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Carga de refrigerante en un frigorífico</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Carga de refrigerante en un frigorífico</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfqi5p2-br5dekhp3</odePageId>
+      <odeBlockId>block-mnf2epqx-lq7j404cx</odeBlockId>
+      <blockName></blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5p2-br5dekhp3</odePageId>
+          <odeBlockId>block-mnf2epqx-lq7j404cx</odeBlockId>
+          <odeIdeviceId>idevice-mnf2epqx-r57gqwmz0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p><span style="font-family: arial, helvetica, sans-serif;">Observa cómo se realiza la carga de refrigerante en un equipo frigorífico:</span></p>
+<figure class="exe-figure exe-media position-center license-CC0" style="width: 900px;"><iframe width="900" height="505" src="https://www.youtube.com/embed/b2B1qs8VDtQ" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">Friolandia Service</span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.es" rel="license nofollow noopener" target="_blank" title="Creative Commons (CC0)">CC0</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif;">En resumen, aquí tienes los pasos para la carga de refrigerante en un frigorífico o máquina frigorífica con compresor hermético:</span></p>
+<ol>
+<li style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif;">Verifica que el sistema esté apagado y que no haya presión en el circuito.</span></li>
+<li style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif;">Colócate el equipo de protección personal (gafas, guantes y ropa adecuada).</span></li>
+<li style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif;">Conecta el manómetro y la manguera de carga al puerto de servicio del sistema.</span></li>
+<li style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif;">Purga las mangueras para eliminar el aire y evitar la entrada de humedad.</span></li>
+<li style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif;">Conecta el cilindro de refrigerante y colócalo en posición correcta (líquido o gas según el sistema).</span></li>
+<li style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif;">Abre lentamente la válvula de carga controlando la presión con el manómetro.</span></li>
+<li style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif;">Carga hasta alcanzar la presión o peso adecuado según especificaciones del fabricante.</span></li>
+<li style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif;">Cierra las válvulas, desconecta el equipo con cuidado y revisa posibles fugas.</span></li>
+<li style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif;">Enciente el sistema y comprueba su funcionamiento y estabilidad de presiones.</span></li>
+<li style="text-align: left;"><span style="font-family: arial, helvetica, sans-serif;">Recoge las herramientas y registra la intervención realizada.</span></li>
+</ol>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p><span style=\"font-family: arial, helvetica, sans-serif;\">Observa cómo se realiza la carga de refrigerante en un equipo frigorífico:</span></p>\n<figure class=\"exe-figure exe-media position-center license-CC0\" style=\"width: 900px;\"><iframe width=\"900\" height=\"505\" src=\"https://www.youtube.com/embed/b2B1qs8VDtQ\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">Friolandia Service</span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/publicdomain/zero/1.0/deed.es\" rel=\"license nofollow noopener\" target=\"_blank\" title=\"Creative Commons (CC0)\">CC0</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\">En resumen, aquí tienes los pasos para la carga de refrigerante en un frigorífico o máquina frigorífica con compresor hermético:</span></p>\n<ol>\n<li style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Verifica que el sistema esté apagado y que no haya presión en el circuito.</span></li>\n<li style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Colócate el equipo de protección personal (gafas, guantes y ropa adecuada).</span></li>\n<li style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Conecta el manómetro y la manguera de carga al puerto de servicio del sistema.</span></li>\n<li style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Purga las mangueras para eliminar el aire y evitar la entrada de humedad.</span></li>\n<li style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Conecta el cilindro de refrigerante y colócalo en posición correcta (líquido o gas según el sistema).</span></li>\n<li style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Abre lentamente la válvula de carga controlando la presión con el manómetro.</span></li>\n<li style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Carga hasta alcanzar la presión o peso adecuado según especificaciones del fabricante.</span></li>\n<li style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Cierra las válvulas, desconecta el equipo con cuidado y revisa posibles fugas.</span></li>\n<li style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Enciente el sistema y comprueba su funcionamiento y estabilidad de presiones.</span></li>\n<li style=\"text-align: left;\"><span style=\"font-family: arial, helvetica, sans-serif;\">Recoge las herramientas y registra la intervención realizada.</span></li>\n</ol>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfqi5p3-tfr07g4ia</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Rúbrica evaluación actividades EXTRA</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Rúbrica evaluación actividades EXTRA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación y criterios de evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Rúbrica evaluación actividades EXTRA</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfqi5p3-tfr07g4ia</odePageId>
+      <odeBlockId>block-mnf2epqx-x4uvtazfz</odeBlockId>
+      <blockName>¿Cómo funciona tu nevera por dentro? Carga de refrigerante</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5p3-tfr07g4ia</odePageId>
+          <odeBlockId>block-mnf2epqx-x4uvtazfz</odeBlockId>
+          <odeIdeviceId>idevice-mnf2epqx-6hkr7xzpy</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<table class='exe-table'><caption>Rúbrica para evaluar el funcionamiento de un frigorífico y la carga de refrigerante</caption><thead><tr><th>&nbsp;</th><th>4 Excelente</th><th>3 Destacado</th><th>2 Aceptable</th><th>1 Insuficiente</th></tr></thead><tbody><tr><th>1. Comprensión del funcionamiento del ciclo frigorífico</th><td>Explica claramente cada etapa del ciclo con terminología técnica adecuada. <span>(4)</span></td><td>Explica el ciclo con pequeñas imprecisiones. <span>(3)</span></td><td>Explica de forma general sin profundizar en los componentes. <span>(2)</span></td><td>Presenta confusión o errores importantes en la explicación. <span>(1)</span></td></tr><tr><th>2. Identificación de componentes</th><td>Identifica y describe correctamente todos los componentes principales. <span>(4)</span></td><td>Identifica la mayoría de los componentes con alguna omisión menor. <span>(3)</span></td><td>Identifica algunos componentes pero no explica bien su función. <span>(2)</span></td><td>Tiene dificultades para identificar y explicar los componentes. <span>(1)</span></td></tr><tr><th>3. Seguridad en la carga de refrigerante</th><td>Aplica todos los procedimientos de seguridad correctamente y con autonomía. <span>(4)</span></td><td>Aplica la mayoría de medidas de seguridad con pocas indicaciones. <span>(3)</span></td><td>Aplica medidas de seguridad de forma parcial o con dudas. <span>(2)</span></td><td>No respeta las medidas básicas de seguridad. <span>(1)</span></td></tr><tr><th>4. Precisión técnica en la carga</th><td>Realiza la carga con precisión, sin pérdidas y usando el equipo adecuadamente. <span>(4)</span></td><td>Realiza la carga con pequeños errores que no afectan al resultado final. <span>(3)</span></td><td>Realiza la carga con errores que comprometen la eficiencia. <span>(2)</span></td><td>No realiza correctamente la carga o genera riesgos en el proceso. <span>(1)</span></td></tr><tr><th>5. Uso de instrumentos y herramientas</th><td>Maneja correctamente todas las herramientas e instrumentos del taller. <span>(4)</span></td><td>Maneja la mayoría de los instrumentos con soltura. <span>(3)</span></td><td>Tiene dificultades con algunas herramientas. <span>(2)</span></td><td>Usa incorrectamente o no sabe usar los instrumentos básicos. <span>(1)</span></td></tr><tr><th>6. Interpretación de esquemas frigoríficos</th><td>Interpreta con precisión esquemas del sistema, identificando funciones y flujos. <span>(4)</span></td><td>Interpreta correctamente con mínimas confusiones. <span>(3)</span></td><td>Interpreta parcialmente o con errores en conexiones básicas. <span>(2)</span></td><td>No interpreta correctamente los esquemas o los confunde. <span>(1)</span></td></tr><tr><th>7. Aplicación normativa y sostenibilidad</th><td>Aplica correctamente la normativa y actúa con conciencia medioambiental. <span>(4)</span></td><td>Aplica la normativa, aunque con alguna omisión menor. <span>(3)</span></td><td>Conoce la normativa pero no siempre la aplica adecuadamente. <span>(2)</span></td><td>Desconoce o ignora las normativas y su impacto ambiental. <span>(1)</span></td></tr></tbody></table><p class="exe-rubrics-authorship"><span class="author">Manuel Parrondo Bermejo</span>. <span class="title"><em>Rúbrica para evaluar el funcionamiento de un frigorífico y la carga de refrigerante</em></span> <span class="license">(<a href="https://creativecommons.org/licenses/" rel="license nofollow noopener" target="_blank" title="Creative Commons CC-BY-SA">CC BY-SA</a>)</span></p><ul class="exe-rubrics-strings"><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li></ul>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value>rubric</value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mnfqi5p3-tfr07g4ia</odePageId>
+      <odeBlockId>block-1774991409598-kaevpswj0</odeBlockId>
+      <blockName>CRITERIOS DE EVALUACIÓN APLICADOS A LAS TAREAS REALIZADAS</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5p3-tfr07g4ia</odePageId>
+          <odeBlockId>block-1774991409598-kaevpswj0</odeBlockId>
+          <odeIdeviceId>idevice-1774991409597-f0ljx38us</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>CRITERIOS DE EVALUACIÓN SEGÚN LA TAREA<br />1 ¿Por qué enfría un aire acondicionado? Observar un equipo real y formular hipótesis sobre su funcionamiento. El alumnado observa un equipo de aire acondicionado en funcionamiento y responde:</p>
+<p>¿Por qué sale aire frío?<br />¿Qué partes intervienen?<br />¿Qué ocurre si cambia la temperatura exterior?</p>
+<p>2 ¿Cómo afecta la temperatura al rendimiento? </p>
+<p>El alumnado mide: Temperatura de entrada/salida, Tiempo de enfriamiento</p>
+<p>Luego: Registra datos, Hace una tabla y Saca conclusiones. </p>
+<p>Comprueban si sus hipótesis iniciales eran correctas.</p>
+<p><strong>2.1. Realizar observaciones sobre el entorno cotidiano, plantear preguntas e hipótesis que puedan ser respondidas o contrastadas utilizando los métodos científicos, para alcanzar la capacidad de realizar observaciones, formular preguntas e hipótesis y comprobar la veracidad de las mismas mediante el empleo de la experimentación, el análisis de los resultados y utilizando las herramientas y normativas que sean convenientes en cada caso, explicando fenómenos naturales y realizando predicciones sobre estos. </strong><br /><br /></p>
+<p>3.Cálculo de consumo eléctrico de un equipo</p>
+<p>El alumnado calcula cuánto consume un aire acondicionado en un día: Datos: potencia (kW) y horas de uso,</p>
+<p>Operación: multiplicación<br />Interpretación: coste aproximado</p>
+<p><strong>STEM1 Resolver problemas sencillos de la vida cotidiana utilizando operaciones matemáticas básicas, interpretando los resultados obtenidos y explicando el procedimiento seguido.</strong><br /><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1774991409597-f0ljx38us","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>CRITERIOS DE EVALUACIÓN SEGÚN LA TAREA<br />1 ¿Por qué enfría un aire acondicionado? Observar un equipo real y formular hipótesis sobre su funcionamiento. El alumnado observa un equipo de aire acondicionado en funcionamiento y responde:</p>\n<p>¿Por qué sale aire frío?<br />¿Qué partes intervienen?<br />¿Qué ocurre si cambia la temperatura exterior?</p>\n<p>2 ¿Cómo afecta la temperatura al rendimiento? </p>\n<p>El alumnado mide: Temperatura de entrada/salida, Tiempo de enfriamiento</p>\n<p>Luego: Registra datos, Hace una tabla y Saca conclusiones. </p>\n<p>Comprueban si sus hipótesis iniciales eran correctas.</p>\n<p><strong>2.1. Realizar observaciones sobre el entorno cotidiano, plantear preguntas e hipótesis que puedan ser respondidas o contrastadas utilizando los métodos científicos, para alcanzar la capacidad de realizar observaciones, formular preguntas e hipótesis y comprobar la veracidad de las mismas mediante el empleo de la experimentación, el análisis de los resultados y utilizando las herramientas y normativas que sean convenientes en cada caso, explicando fenómenos naturales y realizando predicciones sobre estos. </strong><br /><br /></p>\n<p>3.Cálculo de consumo eléctrico de un equipo</p>\n<p>El alumnado calcula cuánto consume un aire acondicionado en un día: Datos: potencia (kW) y horas de uso,</p>\n<p>Operación: multiplicación<br />Interpretación: coste aproximado</p>\n<p><strong>STEM1 Resolver problemas sencillos de la vida cotidiana utilizando operaciones matemáticas básicas, interpretando los resultados obtenidos y explicando el procedimiento seguido.</strong><br /><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mnfqi5p3-9l7vs8y3o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nodo final de créditos</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nodo final de créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Instrumentos de evaluación aplicables</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Nodo final de créditos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mnfqi5p3-9l7vs8y3o</odePageId>
+      <odeBlockId>block-1774991990819-7xp1hbcv3</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mnfqi5p3-9l7vs8y3o</odePageId>
+          <odeBlockId>block-1774991990819-7xp1hbcv3</odeBlockId>
+          <odeIdeviceId>idevice-1774991990817-xb4tnakoe</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">“Diseño e instalación de un sistema de climatización eficiente para un espacio real”</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">-</span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Gema María Naranjo Rodríguez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
